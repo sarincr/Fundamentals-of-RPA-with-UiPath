@@ -1,0 +1,2 @@
+# Fundamentals-of-RPA-with-UiPath
+Robotic process automation is a form of business process automation technology based on metaphorical software robots or on artificial intelligence /digital workers. It is sometimes referred to as software robotics. UiPath streamlines processes, uncovers efficiencies and provides insights, making the path to digital transformation fast and cost-effective. It leverages existing systems to minimize disruption.
